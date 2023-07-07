@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../Source/@metawalls.jpg</file>
+        <file>../Source/chat(1).png</file>
+        <file>../Source/chat.png</file>
+        <file>../Source/chat2.png</file>
+    </qresource>
+</RCC>
