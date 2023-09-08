@@ -5,7 +5,7 @@
 ##### Thanks to https://github.com/hadis98
 ---
 - ## **Fall Semester 2023** ![Term](https://img.shields.io/badge/Solar--Hijri-Mehr--1401-lightblue)
-  - <a href="https://github.com/MahanBeidokhti/IUT/tree/main/0-Mabani">Basic Programming</a> 
+  - <a href="https://github.com/MahanBeidokhti/IUT/tree/main/0-Mabani">Basic Programming (C)</a> 
 
 - ## **Spring Semester 2023** ![Term](https://img.shields.io/badge/Solar--Hijri-Bahman--1401-lightblue)
-  - <a href="https://github.com/MahanBeidokhti/IUT/tree/main/1-AP">Advanced Programming</a> 
+  - <a href="https://github.com/MahanBeidokhti/IUT/tree/main/1-AP">Advanced Programming (C/C++)</a> 
